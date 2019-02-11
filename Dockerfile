@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL MAINTAINER "Testing Docker"
+LABEL MAINTAINER "Testing Dockers"
 
 RUN apk update && apk add htop
 
